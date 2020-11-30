@@ -14,3 +14,20 @@ public class Ocean1 {
         return "на океане остров " + island.toString();
     }
 }
+
+
+//@Component
+//public class Ocean1 {
+//
+//    private Island2 island;
+//
+//    @Autowired
+//    public Ocean1(Island2 island) {
+//        this.island = island;
+//    }
+//
+//    @Override
+//    public String toString() {
+//        return "на океане остров " + island.toString();
+//    }
+//}
